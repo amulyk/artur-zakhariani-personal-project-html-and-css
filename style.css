@@ -2,6 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    
 }
 
 /*COmponenet 1*/
@@ -35,7 +36,7 @@ nav {
 
 .navbaritems {
 
-    margin-left: 618px;
+    margin-left: 616px;
     word-spacing: 45px;
     margin-top: -19px;
 
@@ -46,6 +47,7 @@ nav {
     color: #ffffff;
     font-family: "Lato";
     font-weight: 400;
+    text-decoration: none;
 }
 
 #search {
@@ -53,7 +55,7 @@ nav {
     font-size: 23px;
     width: 25px;
     float: right;
-    margin-right: 408px;
+    margin-right: 412px;
     margin-top: -22px;
     color: #ffffff;
 }
@@ -61,9 +63,9 @@ nav {
 #basket {
     font-weight: 900;
     font-size: 23px;
-    width: 25px;
+    width: 26px;
     float: right;
-    margin-right: -71px;
+    margin-right: -76px;
     margin-top: -22px;
     color: #ffffff;
 }
@@ -76,7 +78,7 @@ nav {
 }
 
 .section-1 h1 {
-    font-size: 84px;
+    font-size: 89px;
     line-height: 60px;
     color: #03fbca;
     font-family: "Lato";
@@ -86,8 +88,8 @@ nav {
     letter-spacing: 2px;
     position: relative;
     top: 51px;
-    left: 12px;
-    word-spacing: 6px;
+    left: 19px;
+    word-spacing: -2px;
     transform: translate(0.1%, 572%);
 }
 
@@ -99,18 +101,20 @@ nav {
     font-weight: 400;
     text-align: center;
     transform: translate(1%, 675%);
-    word-spacing: 9.3px;
+    word-spacing: 5px;
+    margin-left: -39px;
+    margin-top: 3px;
 }
 
 .leftside {
     border: 1px solid white;
     background-color: #1a1c27;
-    width: 50px;
+    width: 51px;
     height: 51px;
     margin-top: 28px;
     position: relative;
-    left: 50px;
-    top: 278px;
+    left: 47px;
+    top: 276px;
 }
 
 #leftarrow {
@@ -125,12 +129,12 @@ nav {
 .rightside {
     border: 1px solid white;
     background-color: #1a1c27;
-    width: 48px;
-    height: 46px;
+    width: 50px;
+    height: 49px;
     margin-top: 28px;
     position: relative;
     left: -34px;
-    top: 202px;
+    top: 198px;
     float: right;
 }
 
@@ -198,13 +202,11 @@ nav {
     font-family: "Lato";
     font-weight: 400;
     float: right;
-    position: relative;
-    left: 769px;
-    bottom: 265px;
+   
 }
 
 .meet {
-    width: 211px;
+    width: 213px;
     height: 38px;
     border-radius: 5px;
     background-color: #ffffff;
@@ -218,7 +220,7 @@ nav {
     position: relative;
     float: right;
     right: 559px;
-    top: 484px;
+    top: 485px;
 }
 
 /*components 4*/
@@ -230,48 +232,48 @@ nav {
 
 .section-3 div {
     width: 640px;
-   
     height: 357px;
-    margin-top: -257px;
+    margin-top: -756px;
 }
 
 .smallbox h4 {
-    font-size: 13px;
-    letter-spacing: 2px;
+    font-size: 12px;
+    letter-spacing: 3px;
     line-height: 19px;
     color: #ffffff;
     font-family: "Lato";
     font-weight: 900;
     position: relative;
-    top: 74px;
-    left: 82px;
+    top: 75px;
+    left: 80px;
 }
 
 .smallbox p {
     font-size: 13px;
     letter-spacing: 1px;
-    line-height: 19px;
+    line-height: 24px;
     color: #ffffff;
     font-family: "Lato";
     font-weight: 900;
     position: relative;
-    top: 87px;
-    left: 80px;
-    width: 478px;
+    top: 85px;
+    left: 78px;
+    word-spacing: -3px;
+    width: 498px;
 }
 
 .smallbox button {
-    width: 166px;
-    height: 46px;
+    width: 168px;
+    height: 48px;
     border-radius: 5px;
     background-color: inherit;
     color: white;
     border: 2px solid #ffffff;
     position: relative;
     line-height: 22px;
-    word-spacing: 3px;
-    top: 135px;
-    left: 82px;
+    word-spacing: 8px;
+    top: 109px;
+    left: 79px;
 }
 
 /*component5*/
@@ -282,13 +284,12 @@ nav {
 
 .section-4 img {
     z-index: -1;
-    width: 536px;
+    width: 545px;
     position: relative;
-    left: 59.6%;
+    left: 58.8%;
     bottom: 1%;
     height: 269%;
-    top: 43%;
-    transform: translateY(9.5%);
+    transform: translateY(-38.1%);
 
 }
 
@@ -299,21 +300,23 @@ nav {
     color: #2c3e50;
     font-family: "Lato";
     font-weight: 900;
-    margin-top: -53.5%;
-    margin-left: 21.5%;
+    margin-top: -81.9%;
+    margin-left: 21.4%;
 }
 
 .smallbox-1 p {
-    width: 448px;
-    font-size: 12px;
+    width: 589px;
+    font-size: 13px;
     font-family: "Lato";
     font-weight: 400;
     position: relative;
-    line-height: 22px;
-    word-spacing: 3px;
-    top: 14px;
-    left: 378px;
-
+    line-height: 23.4px;
+    word-spacing: 0.2px;
+    top: -11px;
+    left: 373px;
+    color: #A1B1BC;
+    margin-top: 28px;
+    letter-spacing: 1.2px;
 }
 
 /*radio buttons*/
@@ -329,10 +332,12 @@ nav {
     -ms-user-select: none;
     user-select: none;
     font-family: "Lato";
-    left: 369px;
-    top: 67px;
+    left: 367px;
+    top: 19px;
     font-size: 14px;
     line-height: 25px;
+    color: #A1B1BC;
+    letter-spacing: 1px;
 }
 
 /* Hide the browser's default radio button */
@@ -345,22 +350,22 @@ nav {
 /* Create a custom radio button */
 .checkmark {
     position: absolute;
-    top: 0;
-    left: 0;
-    height: 25px;
-    width: 25px;
+    top: 7px;
+    left: 4px;
+    height: 15px;
+    width: 15px;
     background-color: #eee;
     border-radius: 50%;
 }
 
 /* On mouse-over, add a grey background color */
 .container:hover input ~ .checkmark {
-    background-color: #ccc;
+    background-color: #707070;
 }
 
 /* When the radio button is checked, add a blue background */
 .container input:checked ~ .checkmark {
-    background-color: #2196F3;
+   background-color: #2C3E50;;
 }
 
 /* Create the indicator (the dot/circle - hidden when not checked) */
@@ -377,29 +382,31 @@ nav {
 
 /* Style the indicator (dot/circle) */
 .container .checkmark:after {
-    top: 9px;
-    left: 9px;
-    width: 8px;
-    height: 8px;
+    top: 5px;
+    left: 5px;
+    width: 6px;
+    height: 6px;
     border-radius: 50%;
     background: white;
 }
 
 div .start {
-    width: 179px;
+    width: 181px;
     height: 38px;
     border-radius: 5px;
     border: 2px solid gray;
     position: relative;
-    line-height: 22px;
-    word-spacing: 3px;
+    line-height: 34px;
+    word-spacing: 4px;
     top: 49px;
     left: 339px;
     background-color: white;
     position: relative;
-    top: 86px;
-    left: 375px;
+    top: 46px;
+    left: 372px;
     font-family: "Lato";
+    font-weight: bold;
+    letter-spacing: 1.1px;
 }
 
 .section-5 {
@@ -433,35 +440,152 @@ div .start {
     word-spacing: 1px;
 }
 
-.quantity span {
-    color: white;
-    padding-left: 54px;
-    padding-right: 106px;
+/* section6 */
+.section6{
+    width: 100%;
+    height: 627px;
+    background-color: #222533;
     position: relative;
-    font-size: 36px;
+    margin-top: -14%;
 }
 
-.quantity  {
-    color: white;
-    padding-left: 55px;
-    position: relative;
-    top: 43.1%;
-    left: 17.3%;
-    letter-spacing: 1px;
+.section6 h1{
+    font-family: 'Lato Black';
+    font-size: 30px;
+    line-height: 40px;
+    letter-spacing: 3px;
+    color:#FFFFFF;
+    padding-top: 140px;
+    padding-left: 817.5px;
 }
-.members span {
-    color: white;
-    padding-left: 55px;
-    position: relative;
-    top: 46.4%;
-    left: 18%;
+
+.section6 div{
+    width: 110px;
+    height: 110px;
+    border: 5px solid rgba(0, 0, 0, 0.5);
+    background-color: #FFFFFF;
+    border-radius: 50%;    
+    display: inline-block;
+    margin-top:61px;
+    
+}
+
+.section6 div i{
+    font-size: 30px;
+    line-height: 50px;
+    letter-spacing: 0.35px;
+    color: #2C3E50;
+    text-align: center;
+    padding-left: 35px;
+    padding-top: 25px;
+}
+
+.section6 p{
+    color:#FFFFFF;
+    font-size: 39px;
+    line-height: 50px;
+    display: inline-block;
+    padding-top: 37px;
+    font-family: "Lato";
+  
+}
+
+.section6_circle1{
+    margin-left: 455px;
+}
+
+.section6_circle2, .section6_circle3, .section6_circle4{
+    margin-left: 186px;
+}
+
+.text1{
+    padding-left: 446px;
+    letter-spacing: 1.6px;
+}
+
+.text2{
+    padding-left: 163px;
+    letter-spacing: 1.1px;
+}
+
+.text3{
+    padding-left: 142px;
+    letter-spacing: 0.6px;
+}
+
+.text4{
+    padding-left: 171px;
+    letter-spacing: -0.4px;
+}
+
+.text1::after{
+    content: '';
+    width: 40px;
+    height: 3px;
+    background-color: #21C2F8;
+    color: #21C2F8;
+    display: block;
+    margin: 0 auto;
+    margin-top: 7px;
+}
+
+.text2::after{
+    content: '';
+    width: 40px;
+    height: 3px;
+    background-color: #21C2F8;
+    color: #21C2F8;
+    display: block;
+    margin: 0 auto;
+    margin-top: 7px;
+}
+
+.text3::after{
+    content: '';
+    width: 40px;
+    height: 3px;
+    background-color: #21C2F8;
+    color: #21C2F8;
+    display: block;
+    margin: 0 auto;
+    margin-top: 7px;
+}
+
+.text4::after{
+    content: '';
+    width: 40px;
+    height: 3px;
+    background-color: #21C2F8;
+    color: #21C2F8;
+    display: block;
+    margin: auto;
+    margin-top: 7px;
+}
+
+.text5, .text6, .text7, .text8{
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    font-size: 18px !important;
+    line-height: 45px !important;
+    padding-top: 0px !important;
+}
+
+.text5{
+    padding-left: 462px;
+    letter-spacing: 1px;
+
+}
+
+.text6{
+    padding-left: 190px;
+}
+
+.text7{
+    padding-left: 171px;
     letter-spacing: 1px;
 }
 
-.members  {
-    color: white;
-    padding-left: 54px;
-    padding-right: 106px;
-    position: relative;
-    font-size: 21px;
+.text8{
+    padding-left: 160px;
+    letter-spacing: 1px;
 }
